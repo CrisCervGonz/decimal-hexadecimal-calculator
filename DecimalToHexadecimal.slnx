@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="DecimalToHexadecimal/DecimalToHexadecimal.vcxproj" Id="4cc99f23-0022-4f79-af06-c9e9cb0ed6a1" />
-</Solution>
